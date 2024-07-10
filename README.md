@@ -1,9 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=What's+up!+I'm+Nabil+-+aka+LITHUM1)](https://git.io/typing-svg)
 
-<h3 align="center">## :name_badge: I'm a junior System Administrator/DevOps!</h3>
+<h3 align="center"> :name_badge: I'm a junior System Administrator/DevOps!</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+Меня очень интересует все, что связано с технологиями и
+информационными технологиями. У меня очень хороший опыт в
+таких технологиях, как сборка компьютеров, устранение
+проблем с оборудованием и программным обеспечением на
+месте или удаленно. я хотел бы пройти стажировку ,также учусь на информацонная
+безопасности и тестировщика на проникновение (Linux, Python, Bash Scripting)
+я говорю на трех языках включая арабский, русский и
+английский языки
 
 
 [![tryhackme stats](https://raw.githubusercontent.com/LITHUM1/LITHUM1/main/assets/thm_propic.png)][TryHackme]
