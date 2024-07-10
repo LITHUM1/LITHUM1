@@ -1,4 +1,4 @@
-## Hello there im Nabil aka LITHUM1
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=What's+up!+I'm+Nabil+-+aka+LITHUM1)](https://git.io/typing-svg)
 
 <h3 align="center">A Beginner system adminstrator/DevOps</h3>
 
