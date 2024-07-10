@@ -11,19 +11,14 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-
-
-
-
-
-
-
 [![tryhackme stats](https://raw.githubusercontent.com/LITHUM1/LITHUM1/main/assets/thm_propic.png)][TryHackme]
 
 ---
 - для предложений работы
+  
 [![hh.ru](https://raw.githubusercontent.com//LITHUM1/LITHUM1/main/assets/hh.png)][hh.ru]
+
+---
 
 
 
