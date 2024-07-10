@@ -30,4 +30,4 @@
 
 
 [tryhackme]: https://tryhackme.com/p/LITHUM1
-[hh.ru]: http://hh.ru
+[hh.ru]: [http://hh.ru](http://hh.ru/](https://kazan.hh.ru/resume/0de9e492ff09e5eb730039ed1f76594b573079))
