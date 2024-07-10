@@ -2,10 +2,8 @@
 
 <h3 align="center"> :name_badge: I'm a junior System Administrator/DevOps!</h3>
 
-- Since i was young i always had interest in computers, my first pc my dad bought in 2006
-- at first i just played games but the curiosity got the better of me and started fiddling around
-- now i fix pc, printers ,servers and build them , my end goal is getting into penetration testing
-- for that to happen i start in system administation and traversal into DevOps Soc 
+- Ever since I was young, computers fascinated me. The first PC I owned was purchased by my dad in 2006. Initially, I used it for gaming, but my curiosity led me to tinker with it. Nowadays, I troubleshoot and build PCs, printers, and servers.
+-  My ultimate ambition is to specialize in penetration testing. To reach this goal, I am beginning with system administration and progressing towards DevOps SOC
 
 
 
