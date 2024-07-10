@@ -1,3 +1,5 @@
+[![en](https://img.shields.io/badge/lang-RU-red.svg)](https://github.com/LITHUM1/LITHUM1/blob/main/README-RU.md)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=What's+up!+I'm+Nabil+-+aka+LITHUM1)](https://git.io/typing-svg)
 
 <h3 align="left"> :name_badge: I'm a junior System Administrator/DevOps!</h3>
