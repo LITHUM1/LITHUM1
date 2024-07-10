@@ -11,6 +11,7 @@
 ---
 [![tryhackme stats](https://raw.githubusercontent.com/LITHUM1/LITHUM1/main/assets/thm_propic.png)][TryHackme]
 ---
+- For job offers  
 [![hh.ru](https://raw.githubusercontent.com//LITHUM1/LITHUM1/main/assets/hh.png)][hh.ru]
 ---
 
