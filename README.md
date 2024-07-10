@@ -7,7 +7,7 @@
 
 
 
-[![LITHUM1's tryhackme stats](https://raw.githubusercontent.com/LITHUM1/LITHUM1/main/assets/thm_propic.png)][tryhackme]
+(https://raw.githubusercontent.com/LITHUM1/LITHUM1/main/assets/thm_propic.png)]
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
