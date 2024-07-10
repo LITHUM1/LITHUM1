@@ -2,14 +2,11 @@
 
 <h3 align="center"> :name_badge: I'm a junior System Administrator/DevOps!</h3>
 
-Меня очень интересует все, что связано с технологиями и
-информационными технологиями. У меня очень хороший опыт в
-таких технологиях, как сборка компьютеров, устранение
-проблем с оборудованием и программным обеспечением на
-месте или удаленно. я хотел бы пройти стажировку ,также учусь на информацонная
-безопасности и тестировщика на проникновение (Linux, Python, Bash Scripting)
-я говорю на трех языках включая арабский, русский и
-английский языки
+- Since i was young i always had interest in computers, my first pc my dad bought in 2006
+- at first i just played games but the curiosity got the better of me and started fiddling around
+- now i fix pc, printers ,servers and build them , my end goal is getting into penetration testing
+- for that to happen i start in system administation and traversal into DevOps Soc 
+
 
 
 [![tryhackme stats](https://raw.githubusercontent.com/LITHUM1/LITHUM1/main/assets/thm_propic.png)][TryHackme]
