@@ -10,7 +10,7 @@
 
 ---
 [![tryhackme stats](https://raw.githubusercontent.com/LITHUM1/LITHUM1/main/assets/thm_propic.png)][TryHackme]
-[![hh.ru stats](https://raw.githubusercontent.com/LITHUM1/LITHUM1/blob/main/assets/HeadHunter_logo.png)][hh.ru]
+[![hh.ru](https://raw.githubusercontent.com/LITHUM1/LITHUM1/blob/main/assets/hh.png)][hh.ru]
 ---
 
 
