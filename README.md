@@ -14,7 +14,7 @@
 - For job offers  
 [![hh.ru](https://raw.githubusercontent.com//LITHUM1/LITHUM1/main/assets/hh.png)][hh.ru]
 ---
-
+ <script src="https://tryhackme.com/badge/2487046"></script>
 
 
 
