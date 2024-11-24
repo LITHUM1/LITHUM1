@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=+%D0%97%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%BE!+%D0%AF+%D0%9D%D0%B0%D0%B1%D0%B8%D0%BB+-+Aka+LITHUM1)](https://git.io/typing-svg)
 
 
-<h3 align="left"> :name_badge: Я - младший системный администратор/DevOps!</h3>
+<h3 align="left"> :name_badge: Я - младший системный администратор/SOC!</h3>
 <!-- BLOG-POST-LIST:START -->
 - С самого детства компьютеры меня увлекали. Первый персональный компьютер я получил в подарок от отца в 2006 году.
 - Изначально я использовал его для игр, но мое любопытство побудило меня экспериментировать с ним. В настоящее время я устраняю неполадки и создаю ПК, принтеры и сервера.
